@@ -1,0 +1,30 @@
+This is a review of the resubmitted manuscript by Canada et al entitled "Testing Newton's second law". I recommend accept with minor revisions.
+
+Title: Please don't leave us hanging! What did testing Newton's second law show?
+
+Throughout the ms there are places with awkward phrasing and roundabout ways to say things. Get to the point, concisely. "for which acceleration was calculated" "Results suggest that" " in such a way that" "these findings align with the dependency of" are all unnecessarily wordy. Think more like a poet and less like a word bank. It is also not necessary to use scare quotes around words like net force, force, acceleration, etc.
+
+At the end of the introduction, the authors set up the idea of a baseline method versus a calculaton method being tested. This is confusing. The kinematic "method" here comes from integrating a constant acceleration twice? We do not normally think of Newton's second law as a "calculation method" either thus this part is confusing.
+
+Methods: The purpose and use of the metronome is unclear. Please explain.
+
+Also all figures, such as Fig (1), need to be referred to in the text somewhere.
+
+On the setup figure, the authors include signs + - to indicate I think the direction of positive acceleration; this is confusing. Such indication could be given with a small arrow and the text "+ acceleration". The readers are able to recognize that the string constrains the accelerations of m1 and m2 to be the same.
+
+In the methods, the authors magically switch verb tenses to the present tense ("is attached... is securely clamped..." Methods should be written in past tense as prose giving key details needed to replicate the work.
+
+Results: The authors mention "various regressions were fitted to the data with the closest show in fig 3" What does this mean? If this means they tested several different hypotheses and ruled some out they ought to discuss this here; it's how science is done!
+
+In figure 3 and 4 they show plots but the labels for axes and the units given do not match, making the plots confusing. Authors quote an R^2 for their fits but would a p value for the slope and intercept be more appropriate and more conventional for this sort of physics work?
+
+The authors do a nice job of comparing their measurements to those expected from a kinematics analysis.
+
+It appears there are only 3 combinations of m1 and m2? The work would be stronger with more; if so the authors should recognize explicitly that n=3 limits the strength of their conclusions.
+
+The last part of the discussion should relate the findings to some sort of broader significance of the work.
+
+In acknowledgements, it is odd to refer to anonymous peer reviewers by name; simply thank the anonymous peer reviewers for comments that improved on the original manuscript.
+
+
+

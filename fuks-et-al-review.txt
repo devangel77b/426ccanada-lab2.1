@@ -1,0 +1,36 @@
+This is a review of the MS "Testing Newton's Second Law" by Fuks et al.
+
+The MS tests Newton's second law (F=ma) using a small cart and pulley system.
+They find that as m increases, a decreases as predicted by F=ma. I recommend
+major revisions / resubmit. 
+
+Introduction: The introduction is mostly clear except we never "prove" a
+physical law. The verb "prove" should be restricted to the mathematical
+logical sense of proof from accepted postulates. Here we are testing hypotheses
+that F=ma, observing and evaluating whether F=ma holds or not; it is not proof
+but if we do such observations enough we provisionally accept F=ma as a useful
+model of how the world works; indeed it works OK at low v but fails to work when
+we have v-> c for example.
+
+Methods and materials: Authors should spell out numbers less than ten. Key gear
+should have a supplier identified so I can replicate with the same cart or track
+SI units should be used. The setup photo is dark and grainy and does not
+illustrate the setup well; consider a drawing. The diagram (and calculational
+procedure given later in results) below in methods. 
+
+The actualy measurement procedure is explained in a cookbook imperative voice
+setp by step. This would normally be written succinctly in past tense to explain simply what was done; and it need not be in chronological order.
+
+Rather than give a cookbook, I would have preferred more understanding of
+how many replicates and how the authors chose to do the test - is F held
+constant and m varies, is m constant and F varies, both?
+
+Results: The graphs axes are not clear at all, and use confusing terminology
+(weight, a force in N versus mass, in kg).
+
+It seems that the authors found a measured acceleration of 0.14 m/s2 and
+compare it to a calcualted acceleration of 0.12 m/s2; but it is unclear
+what happened to all the different replicates they did and what happened
+with different masses. They succeed in showign F=ma for one particular
+measuremetn within 10% accuracy, but I would have liked to have seen
+all the replicates they talk about. 
