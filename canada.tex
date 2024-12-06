@@ -1,4 +1,4 @@
-\documentclass[reprint,amsmath,amssymb,aps]{revtex4-2}
+\documentclass[reprint,amsmath,amssymb,aps,twoside]{revtex4-2}
 
 
 \usepackage{graphicx}
@@ -13,6 +13,23 @@
 \crefname{figure}{Fig.}{Figs.}
 \crefname{table}{Table}{Tables}
 \labelformat{section}{\thesection}
+% set PDF metadata
+\hypersetup{%
+pdftitle={Experimental support for Newton's second law},
+pdfauthor={Cole Canada, Stefano D'Agostino, Ethan Fuks, Jason Katz, Ryan Leung, and Edmund Lee},
+}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[RE,RO]{J S\&E \textbf{1}, 11--13 (2024)}
+\fancyhead[LO]{Canada et al.}
+\fancyhead[LE]{Experimental support for Newton's second law}
+\fancyfoot[C]{\thepage}
+\fancypagestyle{mytitlepage}{
+\fancyhf{}
+\fancyhead[C]{Journal of Science \& Engineering \textbf{1}, 11--13 (2024)}
+\fancyfoot[C]{\thepage}
+}
 
 %\documentclass[twocolumn, 10pt]{article}
 %\usepackage{amsmath}
@@ -25,7 +42,7 @@
 %\usepackage{geometry}
 
 \begin{document}
-
+\setcounter{page}{11}
 \title{Experimental support for Newton's second law}
 \author{Cole Canada}
 \email{Contact author: 426ccanada@frhsd.com}
@@ -44,7 +61,7 @@ The purpose of this experiment is to investigate the relationship between the ne
 
 \keywords{keywords here}
 
-\maketitle
+\maketitle\thispagestyle{mytitlepage}
 
 
 
